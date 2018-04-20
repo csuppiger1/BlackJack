@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\r\n\ it's\ a\ card\ for\ a\ black\ jack\ game\r\n\r\n\ @author\ (Erik\ Voss)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=val\ st\ rk
+comment1.target=Card(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ getSuit()
+comment4.params=
+comment4.target=java.lang.String\ getRank()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,134 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;H:\BlackJack
+-d
+H:\BlackJack\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+H:\BlackJack\Game.java
+<---- end of javadoc command ---->
+Loading source file H:\BlackJack\Game.java...
+H:\BlackJack\Game.java:47: error: illegal start of expression
+            System.out.println("\nYou have " + p1.getMoney() + " dollars"); == 0){
+                                                                            ^
+H:\BlackJack\Game.java:47: error: ';' expected
+            System.out.println("\nYou have " + p1.getMoney() + " dollars"); == 0){
+                                                                                ^
+H:\BlackJack\Game.java:51: error: 'else' without 'if'
+        else{
+        ^
+H:\BlackJack\Game.java:58: error: illegal start of expression
+    public int determineWinner(){
+    ^
+H:\BlackJack\Game.java:58: error: ';' expected
+    public int determineWinner(){
+                              ^
+H:\BlackJack\Game.java:85: error: illegal start of expression
+    public void endGame(){
+    ^
+H:\BlackJack\Game.java:85: error: illegal start of expression
+    public void endGame(){
+           ^
+H:\BlackJack\Game.java:85: error: ';' expected
+    public void endGame(){
+                       ^
+H:\BlackJack\Game.java:89: error: illegal start of expression
+    public void speak0(){
+    ^
+H:\BlackJack\Game.java:89: error: illegal start of expression
+    public void speak0(){
+           ^
+H:\BlackJack\Game.java:89: error: ';' expected
+    public void speak0(){
+                      ^
+H:\BlackJack\Game.java:95: error: illegal start of expression
+    public void speak1(){
+    ^
+H:\BlackJack\Game.java:95: error: illegal start of expression
+    public void speak1(){
+           ^
+H:\BlackJack\Game.java:95: error: ';' expected
+    public void speak1(){
+                      ^
+H:\BlackJack\Game.java:106: error: illegal start of expression
+    public void speak2(){
+    ^
+H:\BlackJack\Game.java:106: error: illegal start of expression
+    public void speak2(){
+           ^
+H:\BlackJack\Game.java:106: error: ';' expected
+    public void speak2(){
+                      ^
+H:\BlackJack\Game.java:110: error: illegal start of expression
+    public void speak3(){
+    ^
+H:\BlackJack\Game.java:110: error: illegal start of expression
+    public void speak3(){
+           ^
+H:\BlackJack\Game.java:110: error: ';' expected
+    public void speak3(){
+                      ^
+H:\BlackJack\Game.java:114: error: illegal start of expression
+    public void speak4(){
+    ^
+H:\BlackJack\Game.java:114: error: illegal start of expression
+    public void speak4(){
+           ^
+H:\BlackJack\Game.java:114: error: ';' expected
+    public void speak4(){
+                      ^
+H:\BlackJack\Game.java:118: error: illegal start of expression
+    public void printPlayerHand(){
+    ^
+H:\BlackJack\Game.java:118: error: illegal start of expression
+    public void printPlayerHand(){
+           ^
+H:\BlackJack\Game.java:118: error: ';' expected
+    public void printPlayerHand(){
+                               ^
+H:\BlackJack\Game.java:125: error: illegal start of expression
+    public void playerTurn(){
+    ^
+H:\BlackJack\Game.java:125: error: illegal start of expression
+    public void playerTurn(){
+           ^
+H:\BlackJack\Game.java:125: error: ';' expected
+    public void playerTurn(){
+                          ^
+H:\BlackJack\Game.java:147: error: illegal start of expression
+    public void dealerTurn(){
+    ^
+H:\BlackJack\Game.java:147: error: illegal start of expression
+    public void dealerTurn(){
+           ^
+H:\BlackJack\Game.java:147: error: ';' expected
+    public void dealerTurn(){
+                          ^
+H:\BlackJack\Game.java:158: error: illegal start of expression
+    public void showHands(){
+    ^
+H:\BlackJack\Game.java:158: error: illegal start of expression
+    public void showHands(){
+           ^
+H:\BlackJack\Game.java:158: error: ';' expected
+    public void showHands(){
+                         ^
+H:\BlackJack\Game.java:169: error: reached end of file while parsing
+}
+ ^
+36 errors

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Deck\ here.\r\n\r\n\ @author\ (Erik\ Voss)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deck\r\n
+comment2.params=
+comment2.target=void\ initializeDeck()
+comment3.params=
+comment3.target=void\ printDeck()
+comment4.params=
+comment4.target=void\ shuffle()
+comment5.params=
+comment5.target=java.util.ArrayList\ deal()
+comment6.params=
+comment6.target=Card\ getTopCard()
+numComments=7
